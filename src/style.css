@@ -1,0 +1,9 @@
+body {
+  background-color: #afabf6;
+}
+.js-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  list-style: none;
+}
